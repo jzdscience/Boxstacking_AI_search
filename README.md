@@ -1,1 +1,4 @@
-# cs221_final_project_Ju_Katherine
+
+CS221 2020 Fall project
+
+Boxstacking
